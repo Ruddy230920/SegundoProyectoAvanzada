@@ -66,7 +66,7 @@
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Agregar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -76,7 +76,7 @@
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
             button2.TabIndex = 1;
-            button2.Text = "button2";
+            button2.Text = "Editar";
             button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -85,7 +85,7 @@
             button3.Name = "button3";
             button3.Size = new Size(75, 23);
             button3.TabIndex = 2;
-            button3.Text = "button3";
+            button3.Text = "Borrar";
             button3.UseVisualStyleBackColor = true;
             // 
             // OrdersForm
